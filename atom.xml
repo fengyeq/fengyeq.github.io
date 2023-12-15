@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fengyeq.github.io</id>
+    <title>枫叶分享网</title>
+    <updated>2023-12-15T13:00:17.629Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fengyeq.github.io"/>
+    <link rel="self" href="https://fengyeq.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://fengyeq.github.io/images/avatar.png</logo>
+    <icon>https://fengyeq.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 枫叶分享网</rights>
+    <entry>
+        <title type="html"><![CDATA[YouTube视频转为图文的工具]]></title>
+        <id>https://fengyeq.github.io/post/reccap/</id>
+        <link href="https://fengyeq.github.io/post/reccap/">
+        </link>
+        <updated>2023-12-14T02:18:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>Reccap</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Reccap</p>
+<!-- more -->
+<p>一款可以将YouTube视频转为图文的工具，并且进行总结，非常有助于对视频的理解。<br>
+需要注册后使用<br>
+<img src="https://fengyeq.github.io/post-images/1702520549319.png" alt="" loading="lazy"><br>
+网站网址：<br>
+Reccap – Reccap 使 YouTube 视频可浏览（https://reccap.it/）<br>
+声明：</p>
+<p>1.在转载本文章时，请保留原文链接，感谢！</p>
+<p>2.本站发布的资源来源于互联网，可能会存在水印或引流等信息，请您自行鉴别，防止被割韭菜。</p>
+<p>3.本站的所有资源和文章均来自于互联网的收集和整理，本站不参与制作。如果您认为我们的内容侵犯了您的合法权益，请联系我们，我们将会及时删除。</p>
+<p>4.本站的所有资源仅供研究和学习交流之用。如果您打算将其用于商业用途，请购买正版授权，否则一切后果将由下载用户自行承担。</p>
+<p>5.联系邮箱：wsgmhy@hotmail.com</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ErphpdownV16.21最新版插件免费下载_多渠道wordpress聚合易支付插件]]></title>
+        <id>https://fengyeq.github.io/post/edn/</id>
+        <link href="https://fengyeq.github.io/post/edn/">
+        </link>
+        <updated>2023-12-13T11:01:07.000Z</updated>
+        <content type="html"><![CDATA[<p>Erphpdown 会员推广下载专业版 vip会员+推广提成+付费下载资源/付费查看内容+集中前端个人中心+ 支付宝支付/微信支付/paypal支付/易支付/第四方码支付， WordPress强大的知识付费、资源下载付费老牌插件，一直在更新维护，并不断完善功能！</p>
+<p>Erphpdown会员推广下载专业版 WordPress插件是一款针对虚拟资源收费下载的插件，经过完美测试运行于wordpress 3.x-6.x版本。后续会增加更多实用的功能。已针对此插件开发了一个前端用户中心，基本适用于任何主题（不排除有的主题使用错位的可能），此前端个人中心页面模板免费赠送。<br>
+<img src="https://fengyeq.github.io/post-images/1702465771029.jpg" alt="" loading="lazy"><br>
+温馨提示：<br>
+1、Erphpdown从V12.2 版本开始 将充值卡、mycred兑换、激活码自动发卡三个扩展内置进插件（请勿重复安装扩展插件）！</p>
+<p>2、 Erphpdown 13版本起，升级后，需要重启插件！</p>
+<p>Erphpdown后台演示截图<br>
+<img src="https://fengyeq.github.io/post-images/1702465809143.jpg" alt="" loading="lazy"><br>
+本插件具有功能强大个人前端功能，可以很方便的修改样式，植入当前主题中：<img src="https://fengyeq.github.io/post-images/1702465823634.jpg" alt="" loading="lazy"><br>
+Erphpdown功能介绍<br>
+已经在程序中集成 官方支付宝（PC电脑端支付即时到帐、唤醒APP支付：H5支付、当面付（个人可申请））、Paypal贝宝、官方微信支付（PC扫码支付、唤醒APP支付：H5支付、公众号js支付）、信用卡/银联 Stripe、Paypy个人免签、P<em>yjs、虎</em>椒V3/*虎支付、码支付、V免签、易支付（支持市面上绝大多数例如彩虹易支付的这类易支付系统平台）。如果你没有接口可申请，不用担心，我们支持充值卡、VIP激活码，你可以在网站里生成充值卡或VIP激活码，放到第三方发卡平台去发。<br>
+5种VIP权限（可自定义时长、名称），这5种VIP权限从低到高，高权限的VIP拥有低权限VIP的权限<br>
+充值卡、VIP充值卡、激活码自动发放、Mycred积分兑换、网盘检测地址有效<br>
+登录、免登录付费下载资源、查看内容（付费阅读、付费视频）（付费视频使用短代码[erphpdown type=”video” image=”背景图片地址，可不设置”]隐藏的视频内容[/erphpdown]）<br>
+免登录自动发卡<br>
+优惠码<br>
+收费下载地址与免费下载地址共存，可同时提供免费下载与收费下载，支持不同价格的下载地址<br>
+自定义购买下载框位置<br>
+普通用户下载免费资源等待时间（VIP无需等待）<br>
+设置用户提现手续费比率<br>
+设置用户推广消费提成比率，支持二级推广（A推广B、B推广C，C消费时A也可以得一定的奖励）<br>
+设置货币昵称（例如：积分）<br>
+设置充值比例（例如：1元=10积分），支持设置冲多少送多少<br>
+查询所有消费记录<br>
+查询所有充值记录<br>
+查看与处理取现申请列表<br>
+查看全部收益与推广<br>
+推广用户消费获得提成（这对管理员没必要）<br>
+用户充值与扣费<br>
+查询用户余额、充值记录、消费记录<br>
+发布收费下载资源（支持外链，可设置解压密码）<br>
+发布收费查看内容（支持全文内容收费查看以及部分内容收费查看）<br>
+管理与、投稿者、订阅者权限分配（以上某些功能是管理员专有权限）<br>
+前端短代码调用、前端用户个人中心<br>
+下载路径加密（内链）<br>
+每日签到送站内币<br>
+年月收入统计<br>
+申请提现<br>
+VIP会员（体验、包月、包季、包年、永久）特权（VIP专享、年费VIP专享、终身VIP专享、VIP半价、VIP八折、VIP免费、年费VIP免费、终身VIP免费、VIP专享购买、VIP5折终身免费、VIP8折终身免费），专享与免费的区别在于免费的可以供普通用户单独购买，而专享仅供VIP下载，VIP名称支持自定义，VIP专享购买（仅VIP可购买资源）<br>
+一次购买，永久下载或可以设置过期时间重复购买<br>
+弹窗特效以及Ajax无跳转购买<br>
+前端个人中心、用户中心（可直接充值、查看消费等）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费矢量图标网站 （强烈推荐！！！）]]></title>
+        <id>https://fengyeq.github.io/post/icon/</id>
+        <link href="https://fengyeq.github.io/post/icon/">
+        </link>
+        <updated>2023-12-12T05:59:21.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>Iconfont<br>
+网址：https://www.iconfont.cn/<br>
+<img src="https://fengyeq.github.io/post-images/1702361333072.jpg" alt="" loading="lazy"><br>
+由阿里巴巴矢量图标库提供的一种开放式的矢量图标管理和交流平台，提供了丰富的矢量图标资源和方便的管理和下载服务。（不能商用）</li>
+<li>lcons8<br>
+网址：https://icons8.com/<br>
+<img src="https://fengyeq.github.io/post-images/1702361696970.jpg" alt="" loading="lazy"><br>
+用户可浏览多达10w+个图标、照片和插图，并可通过许多不同的文件格式下载这些资源。（不能商用）</li>
+<li>lconstore<br>
+网址：https://www.iconstore.co/<br>
+<img src="https://fengyeq.github.io/post-images/1702361840360.jpg" alt="" loading="lazy"><br>
+丰富的图标和符号资源库，并且每个图标都提供了多种不同的格式和尺寸，其网站界面简洁明了，搜索和浏览更加便捷。（可以商用）</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费域名注册]]></title>
+        <id>https://fengyeq.github.io/post/IO/</id>
+        <link href="https://fengyeq.github.io/post/IO/">
+        </link>
+        <updated>2023-12-12T01:33:32.000Z</updated>
+        <content type="html"><![CDATA[<p>给大家分享一个免费https二级域名注册<br>
+IO域名网：https://nic.ioflying.com/home<br>
+<img src="https://fengyeq.github.io/post-images/1702344993072.png" alt="" loading="lazy"><br>
+打开这个网站首先没有注册的可以先注册一个，关于如何注册，这很简单我就先不演示了，<br>
+注册之后就点击这里填写可用的域名然后申请就可以了！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://fengyeq.github.io/post/hello-gridea/</id>
+        <link href="https://fengyeq.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
